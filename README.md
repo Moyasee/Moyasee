@@ -50,8 +50,6 @@
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px"> GitHub Stats
   </h2>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Moyasee&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
-  
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Moyasee&show_icons=true&theme=react&border_color=58A6FF&border_radius=10" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Moyasee&theme=react&border=58A6FF&border_radius=10" />
 </div>
