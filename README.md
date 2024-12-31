@@ -29,7 +29,7 @@
   </h2>
   
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moyasee&repo=hydra-library&theme=react&border_color=58A6FF&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moyasee&repo=hydralibrary&theme=react&border_color=58A6FF&border_radius=10">
   </a>
 </div>
 
